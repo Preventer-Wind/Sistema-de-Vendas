@@ -1,5 +1,5 @@
 ## Sistema de Vendas
-Repositorio que armazena o codigo fonte do Sistema de Vendas
+Repositório que armazena o código fonte do Sistema de Vendas
 
 #### Build local
 ```
