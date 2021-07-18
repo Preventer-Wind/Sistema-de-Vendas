@@ -39,3 +39,4 @@ artifact-publish:
   artifacts:
     paths: [ "target/*.jar" ]
     expire_in: 3 days
+    
