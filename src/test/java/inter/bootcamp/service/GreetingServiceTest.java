@@ -24,11 +24,11 @@ class GreetingServiceTest {
     }
 
     @Test
-    void shouldReturnHelloMichael() {
+    void shouldReturnHelloDiogo() {
         GreetingService greetingService = new GreetingService();
 
-        assertThat(greetingService.sayHi("Michael"))
+        assertThat(greetingService.sayHi("Diogo"))
                 .isNotEmpty()
-                .isEqualTo("Hello Michael");
+                .isEqualTo("Hello Diogo");
     }
 }
